@@ -1,0 +1,1377 @@
+[
+    {
+        "time": "2024-09-25 08:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:46 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "431033328",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:29",
+            "CDN-EdgeStorageId": "894",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "13c5ad7b2a31f07241c36a4251ee110e",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917976,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727265600,
+                                "time": "2024-09-25 08:00",
+                                "temp_c": 13.1,
+                                "temp_f": 55.7,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Cloudy",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+                                    "code": 1006
+                                },
+                                "wind_mph": 6.3,
+                                "wind_kph": 10.1,
+                                "wind_degree": 133,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1022.0,
+                                "pressure_in": 30.17,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 85,
+                                "cloud": 87,
+                                "feelslike_c": 11.7,
+                                "feelslike_f": 53.1,
+                                "windchill_c": 11.7,
+                                "windchill_f": 53.1,
+                                "heatindex_c": 13.1,
+                                "heatindex_f": 55.7,
+                                "dewpoint_c": 10.6,
+                                "dewpoint_f": 51.1,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.9,
+                                "gust_kph": 16.0,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 09:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:47 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "470878427",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "1068",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "ce65f265cb951a8af563a3fd353bb1ec",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917976,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727269200,
+                                "time": "2024-09-25 09:00",
+                                "temp_c": 13.1,
+                                "temp_f": 55.7,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Moderate rain at times",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                    "code": 1186
+                                },
+                                "wind_mph": 6.9,
+                                "wind_kph": 11.2,
+                                "wind_degree": 138,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1022.0,
+                                "pressure_in": 30.17,
+                                "precip_mm": 0.5,
+                                "precip_in": 0.02,
+                                "snow_cm": 0.0,
+                                "humidity": 87,
+                                "cloud": 93,
+                                "feelslike_c": 11.8,
+                                "feelslike_f": 53.2,
+                                "windchill_c": 11.8,
+                                "windchill_f": 53.2,
+                                "heatindex_c": 13.1,
+                                "heatindex_f": 55.7,
+                                "dewpoint_c": 11.1,
+                                "dewpoint_f": 51.9,
+                                "will_it_rain": 1,
+                                "chance_of_rain": 100,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.2,
+                                "gust_kph": 14.8,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 10:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:47 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "466815635",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "940",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "f11628caddc6ba3c566b22215afd8d89",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917976,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727272800,
+                                "time": "2024-09-25 10:00",
+                                "temp_c": 13.2,
+                                "temp_f": 55.7,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Moderate rain at times",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                    "code": 1186
+                                },
+                                "wind_mph": 8.1,
+                                "wind_kph": 13.0,
+                                "wind_degree": 146,
+                                "wind_dir": "SSE",
+                                "pressure_mb": 1022.0,
+                                "pressure_in": 30.17,
+                                "precip_mm": 0.75,
+                                "precip_in": 0.03,
+                                "snow_cm": 0.0,
+                                "humidity": 89,
+                                "cloud": 96,
+                                "feelslike_c": 11.8,
+                                "feelslike_f": 53.3,
+                                "windchill_c": 11.8,
+                                "windchill_f": 53.3,
+                                "heatindex_c": 13.2,
+                                "heatindex_f": 55.7,
+                                "dewpoint_c": 11.3,
+                                "dewpoint_f": 52.3,
+                                "will_it_rain": 1,
+                                "chance_of_rain": 100,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.7,
+                                "gust_kph": 15.6,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 11:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:47 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "431033330",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "941",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "1",
+            "CDN-RequestId": "c7680f8bfe39a9a5891a63991e8f6d05",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917976,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727276400,
+                                "time": "2024-09-25 11:00",
+                                "temp_c": 13.5,
+                                "temp_f": 56.4,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Light rain",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+                                    "code": 1183
+                                },
+                                "wind_mph": 8.1,
+                                "wind_kph": 13.0,
+                                "wind_degree": 144,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1022.0,
+                                "pressure_in": 30.17,
+                                "precip_mm": 1.01,
+                                "precip_in": 0.04,
+                                "snow_cm": 0.0,
+                                "humidity": 90,
+                                "cloud": 99,
+                                "feelslike_c": 12.3,
+                                "feelslike_f": 54.2,
+                                "windchill_c": 12.3,
+                                "windchill_f": 54.2,
+                                "heatindex_c": 13.5,
+                                "heatindex_f": 56.4,
+                                "dewpoint_c": 11.5,
+                                "dewpoint_f": 52.8,
+                                "will_it_rain": 1,
+                                "chance_of_rain": 100,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 10.1,
+                                "gust_kph": 16.2,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 12:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:47 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "457248378",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "1069",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "088e1ba4f133c0b55d5c38e2fd1fdd8a",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917977,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727280000,
+                                "time": "2024-09-25 12:00",
+                                "temp_c": 13.9,
+                                "temp_f": 57.0,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Light rain",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+                                    "code": 1183
+                                },
+                                "wind_mph": 7.6,
+                                "wind_kph": 12.2,
+                                "wind_degree": 143,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.16,
+                                "precip_mm": 0.5,
+                                "precip_in": 0.02,
+                                "snow_cm": 0.0,
+                                "humidity": 86,
+                                "cloud": 100,
+                                "feelslike_c": 12.8,
+                                "feelslike_f": 55.0,
+                                "windchill_c": 12.8,
+                                "windchill_f": 55.0,
+                                "heatindex_c": 13.9,
+                                "heatindex_f": 57.0,
+                                "dewpoint_c": 11.6,
+                                "dewpoint_f": 53.0,
+                                "will_it_rain": 1,
+                                "chance_of_rain": 100,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.8,
+                                "gust_kph": 15.8,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 13:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:47 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "467143985",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:14:47",
+            "CDN-EdgeStorageId": "845",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "bb11a60602197ac69dde6932d1864073",
+            "CDN-Cache": "MISS"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727918054,
+                "localtime": "2024-10-02 21:14"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727283600,
+                                "time": "2024-09-25 13:00",
+                                "temp_c": 14.2,
+                                "temp_f": 57.6,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Light rain",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+                                    "code": 1183
+                                },
+                                "wind_mph": 8.3,
+                                "wind_kph": 13.3,
+                                "wind_degree": 146,
+                                "wind_dir": "SSE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.16,
+                                "precip_mm": 0.25,
+                                "precip_in": 0.01,
+                                "snow_cm": 0.0,
+                                "humidity": 85,
+                                "cloud": 100,
+                                "feelslike_c": 13.2,
+                                "feelslike_f": 55.8,
+                                "windchill_c": 13.2,
+                                "windchill_f": 55.8,
+                                "heatindex_c": 14.2,
+                                "heatindex_f": 57.6,
+                                "dewpoint_c": 11.7,
+                                "dewpoint_f": 53.1,
+                                "will_it_rain": 1,
+                                "chance_of_rain": 100,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 2.0,
+                                "vis_miles": 1.0,
+                                "gust_mph": 10.5,
+                                "gust_kph": 16.8,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 14:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:48 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "384178289",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "940",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "34ec093e72a3c5301548e94ce0e8aa65",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917976,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727287200,
+                                "time": "2024-09-25 14:00",
+                                "temp_c": 14.6,
+                                "temp_f": 58.2,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Overcast",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                                    "code": 1009
+                                },
+                                "wind_mph": 7.6,
+                                "wind_kph": 12.2,
+                                "wind_degree": 143,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.16,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 83,
+                                "cloud": 100,
+                                "feelslike_c": 13.8,
+                                "feelslike_f": 56.9,
+                                "windchill_c": 13.8,
+                                "windchill_f": 56.9,
+                                "heatindex_c": 14.6,
+                                "heatindex_f": 58.2,
+                                "dewpoint_c": 11.8,
+                                "dewpoint_f": 53.2,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 10.2,
+                                "gust_kph": 16.5,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 15:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:48 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "710281415",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:30",
+            "CDN-EdgeStorageId": "1069",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "cfee283705a500219d65b9a9e227cddb",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917977,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727290800,
+                                "time": "2024-09-25 15:00",
+                                "temp_c": 14.8,
+                                "temp_f": 58.7,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Overcast",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                                    "code": 1009
+                                },
+                                "wind_mph": 7.2,
+                                "wind_kph": 11.5,
+                                "wind_degree": 142,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.15,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 83,
+                                "cloud": 100,
+                                "feelslike_c": 14.3,
+                                "feelslike_f": 57.8,
+                                "windchill_c": 14.3,
+                                "windchill_f": 57.8,
+                                "heatindex_c": 14.8,
+                                "heatindex_f": 58.7,
+                                "dewpoint_c": 12.1,
+                                "dewpoint_f": 53.7,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.5,
+                                "gust_kph": 15.3,
+                                "uv": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 16:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:48 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "670731334",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:31",
+            "CDN-EdgeStorageId": "1067",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "1",
+            "CDN-RequestId": "fb53d5b0b2e1096b270d4cd5557fd9fa",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917977,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727294400,
+                                "time": "2024-09-25 16:00",
+                                "temp_c": 15.0,
+                                "temp_f": 59.0,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Overcast",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                                    "code": 1009
+                                },
+                                "wind_mph": 6.5,
+                                "wind_kph": 10.4,
+                                "wind_degree": 146,
+                                "wind_dir": "SSE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.14,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 83,
+                                "cloud": 100,
+                                "feelslike_c": 14.8,
+                                "feelslike_f": 58.6,
+                                "windchill_c": 14.8,
+                                "windchill_f": 58.6,
+                                "heatindex_c": 15.0,
+                                "heatindex_f": 59.0,
+                                "dewpoint_c": 12.2,
+                                "dewpoint_f": 54.0,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.2,
+                                "gust_kph": 14.9,
+                                "uv": 4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 17:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:48 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "353569416",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:13:31",
+            "CDN-EdgeStorageId": "1067",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "0",
+            "CDN-RequestId": "affe1a196e1587858321ac60f1028af9",
+            "CDN-Cache": "HIT"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727917977,
+                "localtime": "2024-10-02 21:12"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727298000,
+                                "time": "2024-09-25 17:00",
+                                "temp_c": 15.1,
+                                "temp_f": 59.1,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Overcast",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                                    "code": 1009
+                                },
+                                "wind_mph": 6.0,
+                                "wind_kph": 9.7,
+                                "wind_degree": 137,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1021.0,
+                                "pressure_in": 30.14,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 83,
+                                "cloud": 100,
+                                "feelslike_c": 15.0,
+                                "feelslike_f": 58.9,
+                                "windchill_c": 15.0,
+                                "windchill_f": 58.9,
+                                "heatindex_c": 15.1,
+                                "heatindex_f": 59.1,
+                                "dewpoint_c": 12.4,
+                                "dewpoint_f": 54.3,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 10.0,
+                                "vis_miles": 6.0,
+                                "gust_mph": 9.0,
+                                "gust_kph": 14.5,
+                                "uv": 4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "time": "2024-09-25 18:00:00",
+        "headers": {
+            "Date": "Tue, 01 Oct 2024 01:14:48 GMT",
+            "Content-Type": "application/json",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server": "BunnyCDN-IL1-894",
+            "CDN-PullZone": "93447",
+            "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+            "CDN-RequestCountryCode": "US",
+            "Age": "0",
+            "Cache-Control": "public, max-age=180",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish (Varnish/7.1)",
+            "x-weatherapi-qpm-left": "4999946",
+            "x-varnish": "462752796",
+            "CDN-ProxyVer": "1.04",
+            "CDN-RequestPullSuccess": "True",
+            "CDN-RequestPullCode": "200",
+            "CDN-CachedAt": "10/01/2024 01:14:48",
+            "CDN-EdgeStorageId": "845",
+            "CDN-Status": "200",
+            "CDN-RequestTime": "1",
+            "CDN-RequestId": "b7ae502ff84252ab2684536d15927aa1",
+            "CDN-Cache": "MISS"
+        },
+        "data": {
+            "location": {
+                "name": "Troy",
+                "region": "New York",
+                "country": "USA",
+                "lat": 42.72,
+                "lon": -73.66,
+                "tz_id": "America/New_York",
+                "localtime_epoch": 1727918054,
+                "localtime": "2024-10-02 21:14"
+            },
+            "forecast": {
+                "forecastday": [
+                    {
+                        "date": "2024-09-25",
+                        "date_epoch": 1727222400,
+                        "day": {
+                            "maxtemp_c": 15.1,
+                            "maxtemp_f": 59.2,
+                            "mintemp_c": 13.1,
+                            "mintemp_f": 55.7,
+                            "avgtemp_c": 14.2,
+                            "avgtemp_f": 57.6,
+                            "maxwind_mph": 8.3,
+                            "maxwind_kph": 13.3,
+                            "totalprecip_mm": 4.35,
+                            "totalprecip_in": 0.17,
+                            "totalsnow_cm": 0.0,
+                            "avgvis_km": 8.7,
+                            "avgvis_miles": 5.0,
+                            "avghumidity": 83,
+                            "daily_will_it_rain": 1,
+                            "daily_chance_of_rain": 100,
+                            "daily_will_it_snow": 0,
+                            "daily_chance_of_snow": 0,
+                            "condition": {
+                                "text": "Moderate rain at times",
+                                "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                                "code": 1186
+                            },
+                            "uv": 4.0
+                        },
+                        "astro": {
+                            "sunrise": "06:46 AM",
+                            "sunset": "06:45 PM",
+                            "moonrise": "No moonrise",
+                            "moonset": "03:40 PM",
+                            "moon_phase": "Waning Crescent",
+                            "moon_illumination": 48
+                        },
+                        "hour": [
+                            {
+                                "time_epoch": 1727301600,
+                                "time": "2024-09-25 18:00",
+                                "temp_c": 15.1,
+                                "temp_f": 59.2,
+                                "is_day": 1,
+                                "condition": {
+                                    "text": "Overcast",
+                                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                                    "code": 1009
+                                },
+                                "wind_mph": 7.2,
+                                "wind_kph": 11.5,
+                                "wind_degree": 143,
+                                "wind_dir": "SE",
+                                "pressure_mb": 1020.0,
+                                "pressure_in": 30.13,
+                                "precip_mm": 0.0,
+                                "precip_in": 0.0,
+                                "snow_cm": 0.0,
+                                "humidity": 84,
+                                "cloud": 99,
+                                "feelslike_c": 15.0,
+                                "feelslike_f": 59.1,
+                                "windchill_c": 15.0,
+                                "windchill_f": 59.1,
+                                "heatindex_c": 15.1,
+                                "heatindex_f": 59.2,
+                                "dewpoint_c": 12.4,
+                                "dewpoint_f": 54.4,
+                                "will_it_rain": 0,
+                                "chance_of_rain": 0,
+                                "will_it_snow": 0,
+                                "chance_of_snow": 0,
+                                "vis_km": 7.0,
+                                "vis_miles": 4.0,
+                                "gust_mph": 10.3,
+                                "gust_kph": 16.6,
+                                "uv": 4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+]
